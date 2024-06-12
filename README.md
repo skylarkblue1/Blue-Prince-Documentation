@@ -15,3 +15,5 @@ Current information:
 - Some notes about the more special rooms
 
 You can read these files without Obsidian, however for best viewing experience I highly recommend plugging the vault into Obsidian.
+
+Neither I or this project have any official affiliation with Blue Prince or Dogubomb.
