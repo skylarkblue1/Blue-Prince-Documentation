@@ -13,3 +13,5 @@ Current information:
 
 - All the rooms I have found so far and their information screens
 - Some notes about the more special rooms
+
+You can read these files without Obsidian, however for best viewing experience I highly recommend plugging the vault into Obsidian.
