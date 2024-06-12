@@ -1,0 +1,1 @@
+![[West Wing Hall.png]]
